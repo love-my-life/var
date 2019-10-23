@@ -1,6 +1,6 @@
 {
     "enable": true,
-    "content": "修复已知问题",
+    "content": "修复标签大于3个的显示问题，详情页推荐商品",
     "mandatory": false,
     "url": "https://www.pgyer.com/YeT3",
     "ver": "2.7.0",
