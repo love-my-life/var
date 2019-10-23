@@ -1,13 +1,13 @@
 {
     "enable": true,
-    "content": "修复售卖详情页推荐商品bug，全新页面添加上拉加载更多",
+    "content": "修复二手机列表售卖时显示比新机省，分类页跳转显示商品不对问题",
     "mandatory": false,
     "url": "https://www.pgyer.com/YeT3",
     "ver": "2.7.0",
     "verdes": "最新版本：V2.7.0",
     "title": "发现新版本",
     "btnname": "立即更新",
-    "buildVerson": "4",
+    "buildVerson": "6",
     "iconurl":"https://github.com/love-my-life/var/blob/master/lALPDeC2uP1vEMrM0szS_210_210.png_620x10000q90.jpg?raw=true"
 }
 
