@@ -1,13 +1,13 @@
 {
     "enable": true,
-    "content": "预发布测试",
+    "content": "登录注册l优化提测",
     "mandatory": false,
     "url": "https://www.pgyer.com/YeT3",
-    "ver": "2.7.0",
-    "verdes": "最新版本：V2.7.0",
+    "ver": "2.7.2",
+    "verdes": "最新版本：V2.7.1",
     "title": "发现新版本",
     "btnname": "立即更新",
-    "buildVerson": "10",
+    "buildVerson": "2",
     "iconurl":"https://github.com/love-my-life/var/blob/master/lALPDeC2uP1vEMrM0szS_210_210.png_620x10000q90.jpg?raw=true"
 }
 
